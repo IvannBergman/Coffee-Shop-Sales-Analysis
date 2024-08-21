@@ -16,9 +16,9 @@ We'll use _Python_, _Microsoft SQL Server_ and _Microsoft PowerBI_ to ingest, pr
 ## Goals
   * To create an end-to-end solution for ingesting, storing and surfacing the data.
   * To expand the dataset by inferring additional dimensions to further slice the data.
-  * To Provide key metrics to articulate the performance of the coffee shop in an easy to understand format.
+  * To Provide metrics to articulate the performance of the coffee shop in an easy to understand format.
   * To answer key business questions (Phrased from the Coffee Shop's perspective):
-      * What is our total revenue? How many unique customers did we serve? How many beverages did we sell?
+      * What is our total revenue? How many customers did we serve? How many beverages did we sell?
       * What is the sales trend for the period? And, given the trend, what will the next few days look like? And next month?
       * What is our busiest day? And time of day?
       * What is our performance compared to the previous month? Are we growing?
