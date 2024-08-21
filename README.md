@@ -23,7 +23,7 @@ We'll use _Python_, _Microsoft SQL Server_ and _Microsoft PowerBI_ to ingest, pr
       * What is our busiest day? And time of day?
       * What is our performance compared to the previous month? Are we growing?
       * Which products are our best and worst sellers?
-      * What days do we sell the most? And time of day?
+      * When do we sell what product the most?
       * How much did our prices change over time? How was our sales affected by the changes?
       * Who is our top 5 patrons?
       * How consistent is our patron's purchasing habits?
