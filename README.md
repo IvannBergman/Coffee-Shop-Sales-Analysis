@@ -1,7 +1,7 @@
 # **Data Analysis For Coffee Shop Sales Data**
 
 ## Intro
-In this project, I take a deep dive into the sales data of a coffee shop for a 6 month period.
+In this project, I took a deep dive into the sales data of a coffee shop for a 6 month period.
 
 The dataset contains 1208 unique transactions spanning from 2024/03/01 to 2024/08/08 with the below attributes:
   * Transaction date
@@ -27,7 +27,7 @@ I'll use _Python_, _Microsoft SQL Server_ and _Microsoft PowerBI_ to ingest, pro
 
    *Q:* What is our total revenue? How many customers did we serve? How many beverages did we sell?
 
-   *A:* From March 2024 to August 2024 you sold a total of 1208 beverages to 564 different customers which equated to a total revenue of 39.66k. These figures average out to 201 beverages, 94 customers and 6.61k revenue monthly.
+   *A:* From March 2024 to August 2024 the shop sold a total of 1208 beverages to 564 different customers which equated to a total revenue of 39.66k. These figures average out to 201 beverages, 94 customers and 6.61k revenue monthly.
 
    *Q:* What is the sales trend for the period? And, given the trend, what will the next few days look like? And next month?
 
@@ -49,7 +49,7 @@ I'll use _Python_, _Microsoft SQL Server_ and _Microsoft PowerBI_ to ingest, pro
    *A:*  
    ![image](https://github.com/user-attachments/assets/32da1d12-c9e1-49ee-9ed2-b650a63e895a)
 
-   Overall, your growth is positive with an average of 17% month-on-month and in terms of performance, you typically achieve 16% over target month-on-month.
+   Overall, the shop's growth is positive with an average of 17% month-on-month and in terms of performance, it achieves 16% over target month-on-month.
 
    *Q:* What is our busiest day? And time of day?
 
@@ -58,7 +58,7 @@ I'll use _Python_, _Microsoft SQL Server_ and _Microsoft PowerBI_ to ingest, pro
 
    Thursdays and Fridays are your busiest overall and Tuesdays your slowest. The difference between the slowest and busiest days are around 23%.
 
-   Afternoons - 12pm to 4pm are your busiest and Nights - 8pm to 11pm are your slowest with the difference being 123%
+   Afternoons - 12pm to 4pm are your busiest, and Nights - 8pm to 11pm, are your slowest with the difference between the highest and lowest being 123%
 
  ### Product Overview:
   *Page Preview:*
@@ -76,7 +76,7 @@ I'll use _Python_, _Microsoft SQL Server_ and _Microsoft PowerBI_ to ingest, pro
    *A:*  
    ![image](https://github.com/user-attachments/assets/67c7f30d-577f-48fa-9d42-a9d7e66a8350)
 
-   Americanos both in the Morning - 7am to 11am and Afternoons - 12pm to 4pm are the best seller and converesely, Cocao being the worst seller across all times groups.
+   Americanos both in the Morning - 7am to 11am, and Afternoons - 12pm to 4pm, are the best seller and converesely, Cocao being the worst seller across all time groups.
 
    *Q:* How much did our prices change over time? How was our sales affected by the changes?
 
@@ -85,7 +85,7 @@ I'll use _Python_, _Microsoft SQL Server_ and _Microsoft PowerBI_ to ingest, pro
 
    Between March and June, the average price of beverages was more-or-less consistent, July saw a relatively large drop-off at around 5 _Currency_ which remains consistent in August.
 
-   With the stable average price of beverages and the fluctuations in volume for March to June and subsequent decrease in price and slight increase in volume for July, it would seem that the influence of product price is low to none on the volume of sales made.
+   With the stable average price of beverages, and the fluctuations in volume from March to June, and the subsequent decrease in price, and slight increase in volume for July: it would seem that the influence of product price is low to none on the volume of sales made.
 
  ### Customer Behaviour:
   *Page Preview:*
@@ -96,7 +96,7 @@ I'll use _Python_, _Microsoft SQL Server_ and _Microsoft PowerBI_ to ingest, pro
    *A:*  
    ![image](https://github.com/user-attachments/assets/27eb2fc4-5f32-4fab-ac3d-d69298bbcff7)
 
-   There are 179 customers who purchased from the shop more than once, with the top 10 purhcasing 12+ times.
+   There are 179 customers who purchased from the shop more than once, with the top 10 purhcasing 12 or more times.
 
    *Q:* How consistent is our patron's purchasing habits?
 
@@ -112,8 +112,5 @@ I'll use _Python_, _Microsoft SQL Server_ and _Microsoft PowerBI_ to ingest, pro
    *A:*  
    ![image](https://github.com/user-attachments/assets/18214214-4b3b-4503-b235-355d236be102)
 
-   Yes, recommendations is based off the dimensions (coffee/no coffee & milk/no milk) of a customer's frequent product purchases and recommends the most popular product fitting the same dimensions and time of purchase.
-
- ### Conclusion
-  The performance of the coffee shop exceeds target regularly and with a loyal customer base which has consistent purchasing habits, and are unaffected by the change in product price, ensures an upwards growth trajectory. 
+   Yes, recommendations is based off the dimensions of a customer's frequent product purchases and recommends the most popular product fitting the same dimensions and time of purchase.
  
