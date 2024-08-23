@@ -11,6 +11,8 @@ The dataset contains 1208 unique transactions spanning from 2024/03/01 to 2024/0
   * Sales amount
   * Product name
 
+Link to Kaggle dataset: [Coffee Sales](https://www.kaggle.com/datasets/ihelon/coffee-sales?resource=download)
+
 I'll use _Python_, _Microsoft SQL Server_ and _Microsoft PowerBI_ to ingest, process, visualize and analyze the dataset to answer key business questions relevant to the sales performance, product performance and the customer base's behaviour.
 
 ## Goals
