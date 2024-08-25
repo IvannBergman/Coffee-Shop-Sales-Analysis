@@ -1,4 +1,4 @@
-# **Data Analysis For Coffee Shop Sales Data**
+# **Data Analysis For Coffee Vending Machine's Sales Data**
 
 ## Intro
 In this project, I took a deep dive into the sales data of a coffee vending machine for a 6 month period.
